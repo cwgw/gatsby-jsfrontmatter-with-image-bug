@@ -12,7 +12,7 @@ Often, making seemingly minor changes to the query produces a different outcome.
 // specify frontmatter
 exports.data = {
   title: 'First Post',
-  cover: './cover-first-post.jpg'
+  coverImage: './cover-first-post.jpg'
 }
 ```
 ```
