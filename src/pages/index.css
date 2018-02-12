@@ -1,0 +1,9 @@
+.post-list-item {
+  border: 1px solid slategray;
+  margin: 0 0 1.5rem;
+  display: flex;
+}
+
+.post-list-item header {
+  padding: 0.75rem;
+}
