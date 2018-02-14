@@ -1,4 +1,4 @@
-*This repo was created to identify a bug that was squashed with gatsby@1.9.197. See gatsbyjs/gatsby#2929 for details.*
+*This repo was created to identify a bug that was squashed with gatsby@1.9.197. See [#2929](https://github.com/gatsbyjs/gatsby/issues/2929) for details.*
 
 ---
 
