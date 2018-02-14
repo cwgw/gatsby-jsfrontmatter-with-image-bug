@@ -1,3 +1,7 @@
+*This repo was created to identify a bug that was squashed with gatsby@1.9.197. See gatsbyjs/gatsby#2929 for details.*
+
+---
+
 # Example of retreiving image nodes from paths in js frontmatter
 
 Using the [gatsby-transformer-javascript-static-exports](https://www.gatsbyjs.org/packages/gatsby-transformer-javascript-static-exports/) plugin allows us to add "frontmatter" to js files that can be targeted with GraphQL queries.
